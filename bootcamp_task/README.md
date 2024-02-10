@@ -1,6 +1,6 @@
 # bootcamp_task
 
-A new Flutter project.
+This task is created for app development bootcamp
 
 ## Getting Started
 
